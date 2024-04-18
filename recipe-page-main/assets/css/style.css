@@ -1,5 +1,5 @@
 body {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-family: Young-Serif
 }
 /* .card {
     display: flex;
@@ -23,7 +23,21 @@ body {
     margin-right: auto;
     height: 100%;
     width: 35%;
+    border-radius: 15px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+}
+
+.image {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: auto;
+  width: 95%;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
 }
 
 
